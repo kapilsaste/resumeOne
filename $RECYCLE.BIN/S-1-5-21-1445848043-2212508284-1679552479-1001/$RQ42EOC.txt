@@ -1,0 +1,215 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous" />
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
+    <script src="https://kit.fontawesome.com/ae8923aaff.js" crossorigin="anonymous"></script>
+</head>
+
+<body>
+    <div class="bg-container">
+        <div class="container">
+            <div class="row main-conti">
+                <div class="col-12 d-flex p-5 align-items-center">
+                    <div class=" d-flex align-items-center">
+                        <div class="profile-container p-5 d-flex flex-column align-items-center justify-content-center text-center">
+                            <div class="profile-photo text-center">
+                                <i class="fa-solid fa-address-card icon"></i>
+                            </div>
+                            <h6 class="text-center profile-head">PROFILE</h6>
+                        </div>
+                        <div class="name-profile first-line p-5">
+                            <h1 class="prof-head">CAROLINE THOMPSON</h1>
+                            <p class="">ART DIRECTOR</p>
+
+                        </div>
+                    </div>
+                    <div class="second-line">
+                        <p>Advertising compaign are my forte.Ihave been in the industry for 6 year</p>
+                        <p>Address: LosAngeles,Clifornia<br />Phone: +(87) 834 2499 2344<br />
+                            Website:carolinathompson.com</p>
+                    </div>
+
+                </div>
+                <div class="col-12 p-5">
+                    <div class="third-line d-flex justify-content-between ">
+                        <div class="profile-container d-flex flex-column justify-content-center align-items-center p-5 pt-4">
+                            <div class="profile-photo">
+                                <i class="fa-solid fa-briefcase icon"></i>
+                            </div>
+                            <h6 class="profile-head">WORK</h6>
+
+                        </div>
+                        <div class="third-line3 pl-5">
+                            <div class="d-flex third-line1 justify-content-between pr-4">
+                                <p>2022-2023</p>
+                                <p><span class="span-el">Creative Minds Graphics Design California-Senior Art Director</span><br />
+                                    Generating and developing idea to present to the client</p>
+                            </div>
+                            <div class="d-flex third-line1 justify-content-between pr-1">
+                                <p>2021-2022</p>
+                                <p><span class="span-el">Mega Giants and Publising Studio - Junior Art Director</span><br />
+                                    Working on designs to produce an effective advertising compaign </p>
+                            </div>
+                            <div class="d-flex third-line1 third-line11 last-yr justify-content-between pl-1">
+                                <p>2020-2021</p>
+                                <p class=""><span class="span-el">Big Ideas Inc - Assistant Art Director
+                                    </span><br />
+                                    Commisiong specialist such as artist, to work on projects</p>
+                            </div>
+
+                        </div>
+
+                    </div>
+
+
+                </div>
+                <div class="col-12 p-5 mb-5">
+                    <div class="d-flex   third-line justify-content-between">
+                        <div class="profile-container d-flex flex-column justify-content-center align-items-center  p-5 pt-4 mt-5">
+                            <div class="profile-photo">
+                                <i class="fa-solid fa-briefcase icon"></i>
+                            </div>
+                            <h6 class="profile-head">SKILLS AND AWARDS</h6>
+
+                        </div>
+                        <div class="d-flex justify-content-between wd1 skillOne pl-5">
+                            <div class="skills-cont borderF1">
+                                <div class="d-flex align-items-center justify-content-between skill-one mt-5">
+                                    <p>UI/UX</p>
+                                    <div class="flex justify-content-end rate-w">
+                                        <i class="fa-sharp fa-solid fa-circle"></i>
+                                        <i class="fa-sharp fa-solid fa-circle"></i>
+                                        <i class="fa-sharp fa-solid fa-circle"></i>
+                                    </div>
+                                </div>
+                                <div class="d-flex align-items-center justify-content-between skill-one">
+                                    <p>Growth Marketing</p>
+                                    <div class="flex justify-content-end rate-w">
+                                        <i class="fa-sharp fa-solid fa-circle"></i>
+                                        <i class="fa-sharp fa-solid fa-circle"></i>
+                                        <i class="fa-sharp fa-solid fa-circle"></i>
+                                        <i class="fa-sharp fa-solid fa-circle"></i>
+                                        <i class="fa-sharp fa-solid fa-circle"></i>
+                                    </div>
+                                </div>
+                                <div class="d-flex align-items-center justify-content-between skill-one">
+                                    <p>Typrography</p>
+                                    <div class="flex justify-content-end rate-w">
+                                        <i class="fa-sharp fa-solid fa-circle"></i>
+                                        <i class="fa-sharp fa-solid fa-circle"></i>
+
+                                    </div>
+                                </div>
+                                <div class="d-flex align-items-center justify-content-between skill-one">
+                                    <p>Video Production</p>
+                                    <div class="flex justify-content-end rate-w">
+                                        <i class="fa-sharp fa-solid fa-circle"></i>
+                                        <i class="fa-sharp fa-solid fa-circle"></i>
+                                        <i class="fa-sharp fa-solid fa-circle"></i>
+                                        <i class="fa-sharp fa-solid fa-circle"></i>
+                                        <i class="fa-sharp fa-solid fa-circle"></i>
+                                    </div>
+                                </div>
+                                <div class="d-flex align-items-center justify-content-between skill-one">
+                                    <p>Print Direction</p>
+                                    <div class="flex justify-content-end rate-w">
+                                        <i class="fa-sharp fa-solid fa-circle"></i>
+                                        <i class="fa-sharp fa-solid fa-circle"></i>
+                                        <i class="fa-sharp fa-solid fa-circle"></i>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="mt-5 pad-right">
+                                <div class="d-flex justify-content-between awards-dist">
+                                    <p>2019</p>
+                                    <p><span class="span-el">Suiton Design Awards</span><br />10 Graphics Designer</p>
+                                </div>
+                                <div class="d-flex justify-content-between awards-dist">
+                                    <p>2019</p>
+                                    <p class="pd"><span class="span-el">Graphics London Awards</span><br />Wining Entry:Poster Design</p>
+                                </div>
+                                <div class="d-flex justify-content-between awards-dist">
+                                    <p>2019</p>
+                                    <p class="pd"><span class="span-el">LA Creactive Award</span><br />Winning Entry:Ad Compaign</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+
+                </div>
+                <div class="col-12 p-5">
+                    <div class="d-flex   third-line justify-content-between">
+                        <div class="profile-container d-flex flex-column justify-content-center align-items-center p-5 pt-4 mb-1">
+                            <div class="profile-photo">
+                                <i class="fa-solid fa-lightbulb icon"></i>
+                            </div>
+                            <h6 class="profile-head">INTRESTS</h6>
+
+                        </div>
+                        <div class="d-flex align-items-center justify-content-around spaceMaker work-bottom">
+                            <div class="d-flex flex-column align-items-center">
+                                <div class="bor-one d-flex flex-column justify-content-center align-items-center">
+                                    <i class="fa-sharp fa-solid fa-desktop icon icon-color"></i>
+                                </div>
+                                <p>Internet</p>
+                            </div>
+                            <div class="d-flex flex-column align-items-center">
+                                <div class="bor-one d-flex flex-column justify-content-center align-items-center">
+                                    <i class="fa-solid fa-pencil  icon-color"></i>
+
+                                </div>
+                                <p>Sketching</p>
+                            </div>
+                            <div class="d-flex flex-column align-items-center">
+                                <div class="bor-one d-flex flex-column justify-content-center align-items-center">
+                                    <i class="fa-solid fa-laptop icon-color"></i>
+
+                                </div>
+                                <p>Movies</p>
+                            </div>
+                            <div class="d-flex flex-column align-items-center">
+                                <div class="bor-one d-flex flex-column justify-content-center align-items-center">
+                                    <i class="fa-solid fa-microphone icon-color"></i>
+
+                                </div>
+                                <p>Music</p>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+                <div class="col-12 p-5">
+                    <div class="d-flex   third-line justify-content-between">
+                        <div class="profile-container d-flex flex-column justify-content-center align-items-center p-5 pt-4 mb-1">
+                            <div class="profile-photo">
+                                <i class="fa-solid fa-book icon"></i>
+                            </div>
+                            <h6 class="profile-head">EDUCATION</h6>
+                        </div>
+                        <div class="name-institute third-line3">
+                            <div class="first-institute d-flex align-items-center justify-content-around third-line1">
+                                <p>2016-2020</p>
+                                <p><span class="span-el">Albama College Of Design and Technology.Cum Laude</span><br />
+                                    Bacholer of Fine Arts Major in advertising</p>
+                            </div>
+                            <div class="first-institute d-flex align-items-center justify-content-around third-line1">
+                                <p>2016-2020</p>
+                                <p class="pr-4"><span class="span-el">Helena All Girls Senior High School - Valedictorian</span><br />
+                                    Presedent of Art and Design Club</p>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+
+
+            </div>
+
+        </div>
+</body>
+
+</html>

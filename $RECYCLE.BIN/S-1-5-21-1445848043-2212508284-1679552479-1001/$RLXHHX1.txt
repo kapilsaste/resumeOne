@@ -1,0 +1,154 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.bg-container {
+    background-color: pink;
+    width: 280vw;
+    background-size: cover;
+}
+
+
+
+
+
+.main-head-name {
+    font-family: "roboto";
+    font-size: 55px;
+    font-weight: bold;
+}
+
+.first-line {
+    border-bottom: 4px solid;
+    border-right: 4px solid;
+}
+
+.icon {
+    font-size: 55px;
+}
+
+.second-line {
+    border-bottom: 4px solid;
+    padding: 45px;
+}
+
+.profile-container {
+    width: 150px;
+    height: 150px;
+    border-radius: 75px;
+    border: 5px solid;
+    text-align: center;
+    padding: 25px;
+}
+
+.third-line {
+    min-width: 800px;
+}
+
+.third-line1 {
+    width: 600px;
+}
+
+.third-line3 {
+    min-width: 1050px;
+    width: 100%;
+
+}
+
+.span-el {
+    font-weight: bold;
+}
+
+.last-yr {
+    padding-right: 68px;
+}
+
+.wd {
+    max-width: 1500px;
+    padding-left: 50px;
+    border: 2px solid black;
+}
+
+.sm-third-line1 {
+    max-width: 400px;
+}
+
+.sm-third-line3 {
+    max-width: 500px;
+}
+
+.sm-third-line {
+    max-width: 500px;
+}
+
+.work-bottom {
+    border-bottom: 3px solid black;
+}
+
+.third-line11 {
+    padding-right: 65px;
+}
+
+.skills-cont {
+    width: 409px;
+}
+
+.skill-one {
+    width: 400px;
+}
+
+.awards-dist {
+    width: 250px;
+}
+
+.wd1 {
+    border-top: 3px solid black;
+    border-bottom: 3px solid black;
+}
+
+.borderF1 {
+    border-right: 3px solid;
+}
+
+.rate-w {
+    width: 150px;
+}
+
+.skillOne {
+    width: 928px;
+}
+
+.pad-right {
+    padding-right: 180px;
+}
+
+.icon-color {
+    color: white;
+    font-size: 60px;
+}
+
+.spaceMaker {
+    width: 900px;
+}
+
+.bor-one {
+    width: 90px;
+    height: 90px;
+    border-radius: 45px;
+    border: 1px solid;
+    background-color: black;
+}
+
+.main-conti {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.pd {
+    padding-left: 55px;
+}
